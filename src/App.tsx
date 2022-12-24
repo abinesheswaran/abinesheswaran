@@ -1,26 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Box, Toolbar } from "@mui/material";
+import ResponsiveAppBar from "./components/app-bar";
+import About from "./pages/about";
+import Awards from "./pages/awards";
+import Contacts from "./pages/contacts";
+import Experience from "./pages/experience";
+import Home from "./pages/home";
+import Projects from "./pages/projects";
+import Skills from "./pages/skills";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <ResponsiveAppBar />
+      <Box component="main">
+        <Toolbar />
+        <Home />
+        <About />
+        <Skills />
+        <Experience />
+        <Projects />
+        <Awards />
+        <Contacts />
+      </Box>
+    </>
   );
-}
+};
 
 export default App;
