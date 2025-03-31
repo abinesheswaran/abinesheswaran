@@ -82,10 +82,15 @@
 
 ---
 
-### 🏆 **Certifications & Achievements**
-- 📜 **Meta Front-End Developer Specialization** – Coursera (Mar 2024)  
-- 🏆 **Bravo Award** – Kudelski Security (Oct 2024, Jun 2022)  
-- 🔥 **LeetCode 200-Day Badge** – Consistently solving DSA problems  
+## 📜 Certifications & Achievements
+
+- **Meta Front-End Developer Specialization** – [Coursera](https://www.coursera.org/account/accomplishments/specialization/JBF393JZW9L7) *(Mar 2024)*
+- **🏆 Bravo Award** – Kudelski Security *(Oct 2024)*  
+  - [LinkedIn Post](https://www.linkedin.com/posts/abineshe_a-happy-milestone-im-thrilled-to-share-activity-7272467904221106176-taIj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR4P4kB3v6hzErEu1Evxjz7641ZJVEBZqE)  
+- **🏆 Bravo Award** – Kudelski Security *(Jun 2022)*  
+  - [Award Image](https://media.licdn.com/dms/image/v2/D4D2DAQHL9bwoPzkPEg/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1733884791106?e=1744005600&v=beta&t=-Se6XqbPBtEutK90eDhP5_nofp7EL9g-9B3UwTq7kqk)  
+- **🔥 LeetCode 200-Day Badge** – Consistently solving DSA problems  
+  - [LinkedIn Post](https://www.linkedin.com/posts/abineshe_deliberatepractice-leetcode-coding-activity-7250746240588546048-aZEM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR4P4kB3v6hzErEu1Evxjz7641ZJVEBZqE)  
 
 ---
 
