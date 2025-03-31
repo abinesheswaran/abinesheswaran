@@ -7,12 +7,11 @@
 
 ---
 
-### 🚀 **About Me**
-- 💻 **Frontend Engineer** @ **Kudelski Security**
-- 🔥 Passionate about **React.js, TypeScript, and Performance Optimization**
-- 🎯 3+ years of experience building **scalable & responsive web apps**
-- 🎓 B.E. Computer Science | PSNA College of Engineering & Technology
-- 🏆 Bravo Award Winner for **UI & Integration Excellence**
+## 👋 About Me  
+
+I'm a **Frontend-focused Full-Stack Developer** (70% Frontend, 30% Backend), passionate about building **scalable, high-performance applications**. With **3+ years of experience**, I specialize in **React, Redux, and TypeScript** while also working with **Node.js, Express, and Java** for backend services.  
+
+I thrive in **fast-paced environments**, optimizing UI/UX and integrating frontend with backend services efficiently. Beyond coding, I enjoy **mentoring**, tackling **DSA challenges** (LeetCode 200-day streak 🔥), and exploring **DevOps tools like Docker & Kubernetes**.  
 
 ---
 
