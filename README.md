@@ -1,45 +1,90 @@
+<h1 align="center">Hi, I'm Abinesh Eswaran 👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abineshe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:heyabinesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://abinesheswaran.github.io"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=github&logoColor=white"></a>
+</p>
 
-📌 Abinesh Eswaran
-🚀 Software Engineer | 💻 Frontend & Backend Developer | 🎨 UI/UX Enthusiast
+---
 
-📧 heyabinesh@gmail.com | 🌐 LinkedIn | 🏡 Portfolio
+### 🚀 **About Me**
+- 💻 **Frontend Engineer** @ **Kudelski Security**
+- 🔥 Passionate about **React.js, TypeScript, and Performance Optimization**
+- 🎯 3+ years of experience building **scalable & responsive web apps**
+- 🎓 B.E. Computer Science | PSNA College of Engineering & Technology
+- 🏆 Bravo Award Winner for **UI & Integration Excellence**
 
-🛠 Tech Stack
-Frontend:
+---
 
-Backend:
+### 🛠️ **Tech Stack**
+#### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-Database:
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-DevOps & Tools:
+#### **Database & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-💡 About Me
-✔️ Passionate Frontend Developer with 3+ years of experience crafting scalable web applications
-✔️ Tech Enthusiast with a keen interest in performance optimization and UI/UX design
-✔️ Open-Source Contributor, exploring React, Node.js, and DevOps technologies
-✔️ Lifelong Learner, constantly upgrading my skills in web development
+#### **Version Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 
-🚀 Experience
-🔹 Software Engineer | Kudelski Security (Dec 2021 – Present, Bangalore)
-🔹 Projects:
+---
 
-🏆 Threat Navigator & Orbit Project – UI & Integration: Led UI development, improving UX and securing seamless stakeholder approvals. Received Bravo Award 🏅
+### 🎯 **Experience**
+#### **Software Engineer @ Kudelski Security**
+📍 **Dec 2021 - Present | Bangalore, India**  
+🔹 **Threat Navigator & Orbit Project – UI & Integration**  
+- Led **UI & integration** efforts for the **Orbit Project**, ensuring a seamless user experience.  
+- Recognized with a **Bravo Award** for impactful contributions.  
+- Built a **Node.js web scraper** for **data automation**, reducing **manual work by 80%**.  
+- Migrated legacy **React app → Modern React stack** with **Redux & TanStack Query**, boosting speed **2x**.  
+- Improved **CI/CD** pipeline, reducing post-merge **bug rates by 70%**.
 
-🔍 Web Scraper Bot (Node.js): Automated data extraction, reducing manual effort by 80%
+---
 
-⚡ Internal Migration (React & Performance Optimization): Achieved 2x faster app, 40% faster development, and lower maintenance overhead
+### 🏆 **Certifications & Achievements**
+- 📜 **Meta Front-End Developer Specialization** – Coursera (Mar 2024)  
+- 🏆 **Bravo Award** – Kudelski Security (Oct 2024, Jun 2022)  
+- 🔥 **LeetCode 200-Day Badge** – Consistently solving DSA problems  
 
-🌍 CI/CD & Kubernetes Deployment: Reduced post-merge bug rates by 70%, improving deployment stability
+---
 
-📜 Certifications & Awards
-🏅 Meta Front-End Developer Specialization – Coursera (Mar 2024)
-🏆 Bravo Award – Kudelski Group (Oct 2024 & June 2022)
+### 📚 **Coursework**
+- 🧑‍💻 **Data Structures & Algorithms**
+- 🎨 **UI/UX Design with Figma**
+- ⚛️ **Advanced React**
+- 🛠️ **Version Control with Git & GitHub**
 
-📊 GitHub Stats
+---
 
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abinesheswaran&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinesheswaran&theme=radical" width="48%" />
+</p>
 
-📫 Connect With Me
-📧 Email: heyabinesh@gmail.com
-🔗 LinkedIn: abineshe
-💼 Portfolio: Coming Soon 🚀
+---
 
+### 🌱 **Interests**
+- 🏋️‍♂️ Fitness & Nutrition
+- 🍜 Food Enthusiast
+- 📖 Self-Improvement  
+
+---
+
+### 📫 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/abineshe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:heyabinesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://abinesheswaran.github.io"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=github&logoColor=white"></a>
+</p>
