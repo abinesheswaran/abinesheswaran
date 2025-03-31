@@ -48,15 +48,37 @@
 
 ---
 
-### 🎯 **Experience**
-#### **Software Engineer @ Kudelski Security**
-📍 **Dec 2021 - Present | Bangalore, India**  
-🔹 **Threat Navigator & Orbit Project – UI & Integration**  
-- Led **UI & integration** efforts for the **Orbit Project**, ensuring a seamless user experience.  
-- Recognized with a **Bravo Award** for impactful contributions.  
-- Built a **Node.js web scraper** for **data automation**, reducing **manual work by 80%**.  
-- Migrated legacy **React app → Modern React stack** with **Redux & TanStack Query**, boosting speed **2x**.  
-- Improved **CI/CD** pipeline, reducing post-merge **bug rates by 70%**.
+## 💼 Experience  
+
+### **Frontend Developer | Kudelski Security** *(Nov 2022 - Present)*  
+
+#### 🚀 Threat Navigator & Orbit Project – UI & Integration  
+- **Ownership & Delivery**: Led UI & integration efforts for Orbit, ensuring seamless UX and timely stakeholder approvals.  
+- **Recognition**: 🏆 Received **Bravo Award** for impactful contributions.  
+
+#### 🤖 Web Scraper Bot Development – Data Automation  
+- **Problem**: Manual data updates slowed the app and caused inconsistencies.  
+- **Solution**: Developed a **Node.js web scraper** for real-time data extraction.  
+- **Impact**: Improved accuracy, **cut manual effort by 80%**, and ensured **real-time updates**.  
+
+#### ⚡ Internal UCM Migration – React & Performance Optimization  
+- **Problem**: Slow load times, performance bottlenecks, and high maintenance.  
+- **Solution**: Migrated to a **modern React stack**, integrating **Redux, React Router, Vite & TanStack Query**.  
+- **Impact**: **2x faster app**, **40% faster development**, and reduced maintenance overhead.  
+
+#### 🚀 Sprint & Deployment Assistance – CI/CD & Kubernetes  
+- **Problem**: Post-merge testing led to frequent **bugs & application failures**.  
+- **Solution**: Trained teams on **pre-merge deployment** and realistic testing with **prod-like data**.  
+- **Impact**: Reduced **post-merge bugs by 70%**, minimized rollbacks, and improved **CI/CD stability**.  
+
+#### 🔗 Full-Stack Contributions – Backend & Design Tools  
+- Worked beyond frontend, contributing to **Spring Boot (backend) & SQL**.  
+- Improved UI/UX with **Figma**, securing a **shared design license** for collaboration.  
+- Led **major UI/UX initiatives in India**, previously handled only in Switzerland.  
+
+#### 👨‍🏫 Mentorship & Team Integration  
+- Trained and mentored **junior developers**, integrating them into the dev ecosystem.  
+- Fostered **team collaboration**, leading to improved productivity and efficiency.  
 
 ---
 
